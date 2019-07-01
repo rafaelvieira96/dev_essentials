@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+# Matriz com listas em sequencia
+# variaveis auxiliares
+# eixo x e y
+# classe enumerate
+
 matriz = [
     [1,2,3],
     [4,5,6],
